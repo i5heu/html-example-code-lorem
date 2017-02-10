@@ -14,7 +14,7 @@ A collection of code for testing - BASIC HTML FUNCTIONS - created for designing 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
  <script>
     $(function(){
-      $("test").load("https://cdn.rawgit.com/i5heu/html-example-code-lorem/51e352d6375ce1a81a304fb8b34810e21add08e2/text-representations-with-article-tag.html");
+      $("test").load("https://cdn.rawgit.com/i5heu/html-example-code-lorem/12a2ccf784afd0b44432fc2c7ea7337b85589dd6/text-representations-with-article-tag.html");
     });
     </script>
 <test></test>
@@ -28,7 +28,7 @@ A collection of code for testing - BASIC HTML FUNCTIONS - created for designing 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
  <script>
     $(function(){
-      $("test").load("https://cdn.rawgit.com/i5heu/html-example-code-lorem/master/text-representation.html");
+      $("test").load("https://cdn.rawgit.com/i5heu/html-example-code-lorem/7c79bd0f28ce450c422e85c1fff9e052fe69af63/text-representation.html");
     });
     </script>
 <test></test>
